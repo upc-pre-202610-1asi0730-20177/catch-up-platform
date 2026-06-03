@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+    <resheader name="version"><value>1.3</value></resheader>
+    <data name="NewsFavoriteSourceDuplicated" xml:space="preserve">
+    <value>Favorite source con este SourceId ya existe para el NewsApiKey brindado</value>
+  </data>
+    <data name="UnexpectedServerError" xml:space="preserve">
+    <value>Error inesperado del servidor</value>
+  </data>
+    <data name="UnexpectedErrorCreatingFavoriteSource" xml:space="preserve">
+    <value>Ocurrio un error inesperado al crear la fuente favorita.</value>
+  </data>
+    <data name="UnexpectedErrorProcessingRequest" xml:space="preserve">
+    <value>Ocurrio un error inesperado al procesar su solicitud.</value>
+  </data>
+    <data name="InvalidFavoriteSourceRequest" xml:space="preserve">
+    <value>La solicitud de fuente favorita contiene valores no validos.</value>
+  </data>
+    <data name="InvalidFavoriteSourceQuery" xml:space="preserve">
+    <value>Los parametros de consulta para fuentes favoritas contienen valores no validos.</value>
+  </data>
+</root>
+
